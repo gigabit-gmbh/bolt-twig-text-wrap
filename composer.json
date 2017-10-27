@@ -2,7 +2,6 @@
     "name": "gigabit/twig-wrap",
     "description": "Wrap a keyword in a string with a prefix and affix",
     "type": "bolt-extension",
-    "version": "0.0.1",
     "keywords": [
     ],
     "require": {
@@ -22,12 +21,12 @@
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "Bolt\\Extension\\YourName\\ExtensionName\\": "src"
+            "Bolt\\Extension\\Gigabit\\TwigWrap\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Bolt\\Extension\\YourName\\ExtensionName\\Tests\\": "tests",
+            "Bolt\\Extension\\Gigabit\\TwigWrap\\Tests\\": "tests",
             "Bolt\\Tests\\": "vendor/bolt/bolt/tests/phpunit/unit/"
         }
     },

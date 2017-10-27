@@ -1,5 +1,6 @@
 {
     "name": "gigabit/twig-wrap",
+    "version": "0.0.1",
     "description": "Wrap a keyword in a string with a prefix and affix",
     "type": "bolt-extension",
     "keywords": [
